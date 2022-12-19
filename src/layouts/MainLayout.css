@@ -1,0 +1,19 @@
+.wrap {
+    width: 100vw;
+    height: 100vh;
+}
+
+.header {
+    height: 33%;
+    background-color: blue;
+}
+
+.container {
+    height: 34%;
+    background-color: white;
+}
+
+.footer {
+    height: 33%;
+    background-color: aqua;
+}
